@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dev.to/branmar97" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://dev.to/branmar97/)
+[<img align="left" alt="dev.to/branmar97" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://brandonmarrero.com/)
 [<img align="left" alt="branmar97 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/branmar97/)
 [<img align="left" alt="branmar97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/brandon-mar/)
 
