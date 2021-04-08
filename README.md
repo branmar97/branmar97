@@ -1,16 +1,16 @@
 ### Hi there, I'm Brandon - aka [branmar97](https://twitter.com/branmar97/) :wave:
 
 ## I'm a Husband, Father, Developer, and Content Creator!
-- :computer: I'm working on a ReactJS SPA called [Apex Link](https://github.com/branmar97/apexlink-frontend)
-- :books: I'm currently learning everyday and improving my knowledge of [ReactJS](https://reactjs.org/)
-- :dizzy: Current Goal: To develop strong skills with [ReactJS](https://reactjs.org/) and progress into [React Native](https://reactnative.dev/) for App Development
-- :camera: Fun Fact: I started off as a music video director and digital content creator, but found my way into software engineering
+- :computer:  I'm working on a ReactJS SPA called [Apex Link](https://github.com/branmar97/apexlink-frontend)
+- :books:  I'm currently learning everyday and improving my knowledge of [ReactJS](https://reactjs.org/)
+- :dizzy:  Current Goal: To develop strong skills with [ReactJS](https://reactjs.org/) and progress into [React Native](https://reactnative.dev/) for App Development
+- :camera:  Fun Fact: I started off as a music video director and digital content creator, but found my way into software engineering
 
 ### Connect with me:
 
-[<img align="left" alt="dev.to/branmar97" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://dev.to/branmar97/]
-[<img align="left" alt="branmar97 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/branmar97/]
-[<img align="left" alt="branmar97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/brandon-mar/]
+[<img align="left" alt="dev.to/branmar97" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://dev.to/branmar97/)
+[<img align="left" alt="branmar97 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/branmar97/)
+[<img align="left" alt="branmar97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/brandon-mar/)
 
 <br />
 
