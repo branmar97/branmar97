@@ -1,15 +1,14 @@
 ### Hi there, I'm Brandon - aka [branmar97](https://twitter.com/branmar97/) :wave:
 
-## I'm a Husband, Father, Developer, and Content Creator!
-- :computer: &nbsp; I'm working on Rails monoliths and a ReactJS app called [FITR](https://github.com/patrick-rush/fitr-backend)
-- :books: &nbsp; I'm currently learning everyday and expanding my knowledge of [Rails](https://rubyonrails.org/) and [ReactJS](https://reactjs.org/)
-- :dizzy: &nbsp; Current Goal: To develop strong skills with [ReactJS](https://reactjs.org/) and progress into [React Native](https://reactnative.dev/) for App Development
-- :camera: &nbsp; Fun Fact: I started off as a music video director and digital content creator, but found my way into software engineering
+## I'm a Developer and Content Creator
+- :computer: &nbsp; I'm currently discovering what path I want to take in tech
+- :books: &nbsp; I'm learning everyday and expanding my knowledge
+- :dizzy: &nbsp; Current Goal: To develop strong skills in C++ and pursue game development
+- :camera: &nbsp; Fun Fact: I started off as a music video director and digital content creator
 
 ### Connect with me:
 
-[<img align="left" alt="dev.to/branmar97" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://brandonmarrero.com/)
-[<img align="left" alt="branmar97 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/branmar97/)
+[<img align="left" alt="branmar97 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mrbranmar/)
 [<img align="left" alt="branmar97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/brandon-mar/)
 
 <br />
