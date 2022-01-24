@@ -4,7 +4,7 @@
 - :computer: &nbsp; I'm currently discovering what path I want to take in tech
 - :books: &nbsp; I'm learning everyday and expanding my knowledge
 - :dizzy: &nbsp; Current Goal: To develop strong skills in JavaScript and Node
-- :camera: &nbsp; Fun Fact: I started off as a music video director and digital content creator
+- :camera: &nbsp; Fun Fact: I produce music videos and digital content
 
 ### Connect with me:
 
