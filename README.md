@@ -1,15 +1,14 @@
 ### Hi there, I'm Brandon - aka [branmar97](https://twitter.com/branmar97/) :wave:
 
 ## I'm a Developer and Content Creator
-- :computer: &nbsp; I'm currently discovering what path I want to take in tech
-- :books: &nbsp; I'm learning everyday and expanding my knowledge
-- :dizzy: &nbsp; Current Goal: To develop strong skills in JavaScript and Node
-- :camera: &nbsp; Fun Fact: I produce music videos and digital content
+- :computer: &nbsp; I'm currently looking for a developer positions and open to any technologies
+- :books: &nbsp; I'm learning everyday and expanding my knowledge in software engineering
+- :dizzy: &nbsp; Current Goal: Complete my Bigfoot Sightings app in Rails/React
 
 ### Connect with me:
 
-[<img align="left" alt="branmar97 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mrbranmar/)
-[<img align="left" alt="branmar97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/brandon-mar/)
+[<img align="left" alt="mrbranmar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mrbranmar/)
+[<img align="left" alt="mrbranmar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/brandon-mar/)
 
 <br />
 
