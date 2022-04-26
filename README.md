@@ -1,9 +1,9 @@
 ### Hi there, I'm Brandon - aka [branmar97](https://twitter.com/branmar97/) :wave:
 
 ## I'm a Developer and Content Creator
-- :computer: &nbsp; I'm currently looking for a developer position and open new opportunities
-- :books: &nbsp; I'm learning everyday and expanding my knowledge in software engineering
-- :dizzy: &nbsp; Current Goal: Complete my Bigfoot Sightings app in Rails/React
+- :computer: &nbsp; I'm currently looking for a developer position and open to new opportunities
+- :books: &nbsp; I'm learning everyday and expanding my knowledge in software development
+- :dizzy: &nbsp; Current Goal: Add user profiles to my [Apex Link app](https://github.com/branmar97/apexlink-frontend)
 
 ### Connect with me:
 
