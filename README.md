@@ -1,14 +1,21 @@
 ### Hi there, I'm Brandon - aka [branmar97](https://twitter.com/branmar97/) :wave:
 
-## I'm a Developer and Content Creator
-- :computer: &nbsp; I'm currently looking for a developer position and open to new opportunities
-- :books: &nbsp; I'm learning everyday and expanding my knowledge in software development
-- :dizzy: &nbsp; Current Goal: Add user profiles to my [Apex Link app](https://github.com/branmar97/apexlink-frontend)
+## I'm a Software Engineer and Content Creator
+- :computer: &nbsp; I am most comfortable with Ruby on Rails, React/Redux, Postgres, and REST APIs
+- :school: &nbsp; Graduated from Flatiron Software Engineer Bootcamp and currently a CS major
+- :books: &nbsp; I'm learning everyday and always looking to collaborate with others
+- :dizzy: &nbsp; Currently working on a collaborative project using Remix, TailwindCSS, GraphQL, and Postgres.
+- :mailbox: &nbsp; Below you will find some ways to reach me
 
 ### Connect with me:
 
-[<img align="left" alt="mrbranmar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mrbranmar/)
-[<img align="left" alt="mrbranmar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/brandon-mar/)
+:email: brandonmar97@gmail.com
+
+[<img align="left" alt="Discord" width="26px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" />](https://discordapp.com/users/479329550631829534)
+
+[<img align="left" alt="Twitter" width="26px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" />](https://twitter.com/mrbranmar/)
+
+[<img align="left" alt="LinkedIn" width="26px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />](https://www.linkedin.com/in/brandon-mar/)
 
 <br />
 
