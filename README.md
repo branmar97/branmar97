@@ -1,4 +1,4 @@
-### Hi there, I'm Brandon - aka [branmar97](https://twitter.com/branmar97/) :wave:
+### Hi there, I'm Brandon :wave:
 
 ## I'm a Software Engineer and Content Creator
 - :computer: &nbsp; I am most comfortable with Ruby on Rails, React/Redux, Postgres, and REST APIs
