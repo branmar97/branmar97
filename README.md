@@ -1,7 +1,7 @@
 ### Hi there, I'm Brandon :wave:
 
 ## I'm a Software Engineer and Content Creator
-- :computer: &nbsp; I am most comfortable with Ruby on Rails, React/Redux, Postgres, and REST APIs
+- :computer: &nbsp; Using TypeScript, Remix, TailwindCSS, GraphQL, Postgres Ruby on Rails, React/Redux, Postgres, and REST APIs
 - :school: &nbsp; Graduated from Flatiron Software Engineer Bootcamp and currently a CS major
 - :dizzy: &nbsp; Currently working on a collaborative project using Remix, TailwindCSS, GraphQL, and Postgres.
 - :mailbox: &nbsp; Below you will find some ways to reach me
