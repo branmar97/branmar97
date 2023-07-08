@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-:email: brandon.marrero@myyahoo.com
+:email: dev.bmarrero@gmail.com
 
 [<img align="left" alt="Discord" width="26px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" />](https://discordapp.com/users/479329550631829534)
 
